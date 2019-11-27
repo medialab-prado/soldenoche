@@ -15,14 +15,13 @@ layout: page
 
   <div class="col-sm-4 col-xs-6 colaborador" >
     {% if colaborador.foto %}
-      <img class="img-responsive " src="{{colaborador.foto}}" alt="{{colaborador.nombre}}" title="{{colaborador.nombre}}">
+      <img class="img-responsive " src="{{site.url}}/images/colaboradores/{{colaborador.foto}}" alt="{{colaborador.nombre}}" title="{{colaborador.nombre}}">
     {% else %}
       <img class="img-responsive " src="https://robohash.org/{{colaborador.nombre | url_encode}}" alt="{{colaborador.nombre}}" title="{{colaborador.nombre}}">
     {% endif %}
     <div class="pull-left">
     {{colaborador.nombre | upcase }}<br>
     {{colaborador.descripcion}}
-    {{colaborador.role}}<br>
     </div>
     <div class="pull-right">
     {% if colaborador.url %}
