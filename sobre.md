@@ -7,7 +7,7 @@ layout: page2
 <h2 id="ingrid-cuestas-i-gastrósofa-bogotá-colombia">Ingrid Cuestas I Gastrósofa <br /><small>[Bogotá, Colombia]</small></h2>
 <h3 id="artista-visual-en-residencia-en-medialab-prado-del-1-al-31-de-noviembre-de-2019">Artista Visual<br />Residencia en Medialab Prado del 1 al 31 de noviembre de 2019</h3>
 
-<p><span class="image center"><img src="images/colaboradores/Ingrid.jpg" alt="Ingrid Cuestas" title="Ingrid Cuestas" /></span></p>
+<p><span class="image center"><img src="images/colaboradores/ingrid.jpg" alt="Ingrid Cuestas" title="Ingrid Cuestas" /></span></p>
 
 <p>Maestra en Artes Visuales con énfasis en expresión audiovisual, gastrósofa, artivista y cocinera empírica. Ganadora de la Residencia Plataforma Bogotá - Medialab Prado del Programa Distrital de estímulos del Idartes 2019. Desde 2005 explora los lenguajes del dibujo, el videoarte y la instalación. En 2008 comienza a apropiarse de la deriva como método de investigación, aprendizaje, creación y resistencia política. En 2011, se declara nómada y crea el Sol de Noite : Laboratorio Itinerante de Cocina Creativa, proyecto con el que lleva 9 años recorriendo América del Sur bajo el lema: el sur es nuestro norte. Cuestas propone el laboratorio de creación colectiva y multidisciplinaria Sol de Noche durante su residencia en Madrid, con el ánimo de provocar curiosidades y construir colectivamente nuevos imaginarios desde el arte, la ciencia, la tecnología y la interdisciplinariedad, que apunten al alcance de la soberanía alimentaria desde el entendimiento de la economía y la sociedad actual.</p>
 

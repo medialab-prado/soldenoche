@@ -1745,7 +1745,9 @@ input, select, textarea {
       padding-top:1em;
 		}
 
-
+    #footer a {
+      border-bottom: none;
+    }
 		body.is-article-visible #footer {
 			-moz-transform: scale(0.95);
 			-webkit-transform: scale(0.95);
