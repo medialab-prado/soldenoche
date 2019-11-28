@@ -26,7 +26,7 @@ layout: page2
 
 <p>Fragmentos del <a href="https://www.ingridcuestas.com/manifiesto-gastrosofico">Manifiesto Gastrosófico del Sol de Noite</a></p>
 
-<p><span class="image fit white"><img src="images/logosoldenoite.png" /></span></p>
+<p><span class="image fit "><img src="images/logosoldenoite-blanco.png" /></span></p>
 <h2 id="presenta--sol-de-noche">Presenta: <br /> “SOL DE NOCHE”</h2>
 <h3 id="laboratorio-de-creación-colectiva-interdisciplinaria-y-horizontal-diwo-do-it-with-others">Laboratorio de creación colectiva, interdisciplinaria y horizontal DIWO (do it with others)</h3>
 
