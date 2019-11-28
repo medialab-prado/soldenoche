@@ -743,6 +743,16 @@ input, select, textarea {
 			width: 100%;
 		}
 
+    .image.white:before {
+			pointer-events: none;
+      background-image: none;
+			background-color: none;
+      opacity: 0;
+		}
+    .image.white{
+      background-color: #fff;
+    }
+
 		.image img {
 			border-radius: 4px;
 			display: block;
@@ -1732,7 +1742,9 @@ input, select, textarea {
 			opacity: 0.75;
 			margin-bottom: 0;
 			text-transform: uppercase;
+      padding-top:1em;
 		}
+
 
 		body.is-article-visible #footer {
 			-moz-transform: scale(0.95);
