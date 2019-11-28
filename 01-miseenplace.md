@@ -11,7 +11,8 @@ layout: page
 ## Tripulación de Cocineros
 
 <div class="colaborators">
-{% for colaborador_hash in site.data.colaboradores %}
+{% assign colaboradores = site.data.colaboradores | sort %}
+{% for colaborador_hash in colaboradores %}
 {% assign colaborador = colaborador_hash[1] %}
 
   <div class="colaborator " >

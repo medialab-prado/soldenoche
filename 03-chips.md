@@ -39,7 +39,7 @@ A partir de una pequeña selección de los alimentos y de una lluvia de ideas do
 
 **Elaboración:**
 1. Cortar con mandolina muy fina.
-2. Echar en un bol con sal y masajear.
+2. Agregar en un bol con sal y masajear.
 3. embotar hasta arriba para que no entre oxigeno en el bote y malogre el fermentado.
 
 #### Calabaza:
@@ -53,7 +53,7 @@ A partir de una pequeña selección de los alimentos y de una lluvia de ideas do
 
 **Elaboración:**
 1. Cortar con mandolina muy fina.
-2. Echar en un bol con sal y masajear.
+2. Agregar en un bol con sal y masajear.
 3. Añadir zumo de mandarina y cáscara.
 4. Embotar hasta arriba para que no entre oxígeno en el bote y malogre el fermentado.
 
@@ -69,7 +69,7 @@ A partir de una pequeña selección de los alimentos y de una lluvia de ideas do
 
 **Elaboración:**
 1. Cortar con mandolina muy fina.
-2. Echar en un bol con sal y masajear.
+2. Agregar en un bol con sal y masajear.
 3. Añadir zumo de naranja y cáscara de limón.
 4. Embotar hasta arriba para que no entre oxígeno en el bote y malogre el fermentado.
 
@@ -85,7 +85,7 @@ A partir de una pequeña selección de los alimentos y de una lluvia de ideas do
 
 **Elaboración:**
 1. Cortar con cuchillo muy fino.
-2. Echar en un bol con sal y masajear.
+2. Agregar en un bol con sal y masajear.
 3. Añadir semillas de mostaza y comino negro.
 4. Embotar hasta arriba para que no entre oxígeno en el bote y malogre el fermentado.
 
@@ -98,7 +98,7 @@ A partir de una pequeña selección de los alimentos y de una lluvia de ideas do
 
 **Elaboración:**
 1. Cortar con cuchillo muy fino.
-2. Echar en un bol con sal y masajear.
+2. Agregar en un bol con sal y masajear.
 3. Embotar hasta arriba para que no entre oxígeno en el bote y malogre el fermentado.
 
 #### Boniato:
@@ -110,7 +110,7 @@ A partir de una pequeña selección de los alimentos y de una lluvia de ideas do
 
 **Elaboración:**
 1. Cortar con cuchillo muy fino.
-2. Echar en un bol con sal y masajear.
+2. Agregar en un bol con sal y masajear.
 3. Embotar hasta arriba para que no entre oxígeno en el bote y malogre el fermentado.
 
 <blockquote>La idea es que la patata y el boniato se horneen porque crudos, aunque estén fermentados ,no pueden consumirse ya que pueden ser nocivos para la salud. así que queremos hornearlos a 180º durante 1 hora más o menos, después enfriarlo a 5º durante 24 horas y después deshidratarlo. A ver cómo resulta ;-)</blockquote>

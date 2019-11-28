@@ -5,7 +5,7 @@ layout: page2
 ---
 <h1 id="sol-de-noche">Sol de Noche</h1>
 <h2 id="ingrid-cuestas-i-gastrósofa-bogotá-colombia">Ingrid Cuestas I Gastrósofa <br /><small>[Bogotá, Colombia]</small></h2>
-<h3 id="artista-visual-en-residencia-en-medialab-prado-del-1-al-31-de-noviembre-de-2019">Artista visual en residencia en Medialab Prado del 1 al 31 de noviembre de 2019</h3>
+<h3 id="artista-visual-en-residencia-en-medialab-prado-del-1-al-31-de-noviembre-de-2019">Artista Visual<br />Residencia en Medialab Prado del 1 al 31 de noviembre de 2019</h3>
 
 <p><span class="image center"><img src="images/colaboradores/Ingrid.jpg" alt="Ingrid Cuestas" title="Ingrid Cuestas" /></span></p>
 
@@ -20,13 +20,14 @@ layout: page2
 <p>…Comer es una acción análoga al ejercicio del pensamiento, cocinar un acto poético, político y artístico. En cada trozo saboreado devoramos bocados de realidad o fantasía, amor o violencia,  sueños  o  resignaciones,  abuso  o  justicia, cada alimento tiene una historia, un planteamiento social, económico y antropológico.</p>
 
 <p>Nos interesan los personajes que día a día labran la tierra para entregarnos el alimento, les agradecemos por bendecirnos con su arduo trabajo. Aborrecemos a todos aquellos mercenarios que se enriquecen de forma exponenciada gracias al trabajo del honesto.</p>
+<p class="align-right"><a href="https://www.ingridcuestas.com" target="_blank">https://www.ingridcuestas.com</a></p>
 
 <p>Apoyamos al pequeño productor, la tienda de barrio, el centro de abastos, el mercado campesino, la cocina artesanal, el cultivo orgánico, los productos locales y de temporada. Tiramos abajo las cadenas industriales, de comercio y de cualquier forma de opresión instaurada por las multinacionales y el neoliberalismo. Queremos que caiga la economía global y sus tiranos…</em>”</p>
 
 <p>Fragmentos del <a href="https://www.ingridcuestas.com/manifiesto-gastrosofico">Manifiesto Gastrosófico del Sol de Noite</a></p>
 
 <p><span class="image fit white"><img src="images/logosoldenoite.png" /></span></p>
-<h1 id="presenta--sol-de-noche">Presenta: <br /> “SOL DE NOCHE”</h1>
+<h2 id="presenta--sol-de-noche">Presenta: <br /> “SOL DE NOCHE”</h2>
 <h3 id="laboratorio-de-creación-colectiva-interdisciplinaria-y-horizontal-diwo-do-it-with-others">Laboratorio de creación colectiva, interdisciplinaria y horizontal DIWO (do it with others)</h3>
 
 <h4 id="historia-de-la-receta">Historia de la receta:</h4>
