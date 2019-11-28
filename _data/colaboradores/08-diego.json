@@ -1,6 +1,7 @@
 {
   "id": 8,
   "nombre": "Diego Andrés Ramírez Aragón",
-  "descripcion": "Colombiano, nowmada, Ingeniero de Sistemas y Computación, ciclista, hortelano.\nInteresado en la inteligencia colectiva y los procesos participativos como herramientas de transformación social.\nColabora en Sol de Noche desde sus interés en el consumo de productos de temporada y de cercanía ",
-  "foto": "diego.jpeg"
+  "descripcion": "Colombiano, nowmada, Ingeniero de Sistemas y Computación, ciclista, hortelano.<br>Interesado en la inteligencia colectiva y los procesos participativos como herramientas de transformación social.<br>Colabora en Sol de Noche desde sus interés en el consumo de productos de temporada y de cercanía ",
+  "foto": "diego.jpeg",
+  "url":"https://lowfill.org"
 }

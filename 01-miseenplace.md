@@ -10,20 +10,17 @@ layout: page
 
 ## Tripulación de Cocineros
 
+<div class="colaborators">
 {% for colaborador_hash in site.data.colaboradores %}
 {% assign colaborador = colaborador_hash[1] %}
 
-  <div class="col-sm-4 col-xs-6 colaborador" >
+  <div class="colaborator " >
     {% if colaborador.foto %}
-      <img class="img-responsive " src="{{site.url}}/images/colaboradores/{{colaborador.foto}}" alt="{{colaborador.nombre}}" title="{{colaborador.nombre}}">
+      <span class="image center"><img src="{{site.url}}/images/colaboradores/{{colaborador.foto}}" alt="{{colaborador.nombre}}" title="{{colaborador.nombre}}"></span>
     {% else %}
-      <img class="img-responsive " src="https://robohash.org/{{colaborador.nombre | url_encode}}" alt="{{colaborador.nombre}}" title="{{colaborador.nombre}}">
+      <span class="image center"><img class="img-responsive " src="https://robohash.org/{{colaborador.nombre | url_encode}}" alt="{{colaborador.nombre}}" title="{{colaborador.nombre}}"></span>
     {% endif %}
-    <div class="pull-left">
-    {{colaborador.nombre | upcase }}<br>
-    {{colaborador.descripcion}}
-    </div>
-    <div class="pull-right">
+    <div class="identities">
     {% if colaborador.url %}
       <a href="{{colaborador.url}}" target="_blank"><i class="fa fa-home"></i></a>
     {% endif %}
@@ -37,9 +34,13 @@ layout: page
       <a href="{{colaborador.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a>
     {% endif %}
     </div>
+    <div class="description">
+      <h4>{{colaborador.nombre | upcase }}</h4>
+      <p>{{colaborador.descripcion}}</p>
+    </div>
   </div>
 {% endfor %}
-
+</div>
 ## Ingredientes
 
 - 10 kilos de empatía
