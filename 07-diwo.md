@@ -13,5 +13,5 @@ La idea de los datos abiertos, está basada en la exposición de nuevos métodos
 
 <span class="image fit"><img src="images/diwo/portada.jpg"></span>
 <div class="align-right">
-  <a href="#" class="button primary">Descargar</a>
+  <a href="assets/Manual-Sol_de_Noche.pdf" class="button primary">Descargar</a>
 </div>
