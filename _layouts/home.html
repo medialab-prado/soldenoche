@@ -5,81 +5,82 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-  {% include head.html %}
-  <body class="is-preload">
-    <!-- Wrapper -->
-    <div id="wrapper">
-      <!-- Header -->
-      <header id="header">
-        <div class="logo">
-          <img src="images/soldenoche-80.png" />
-        </div>
-        <div class="content">
-          <div class="inner">
-            <a href="#sobre"><p><span class="image center"><img src="images/logosoldenoite-blanco.png" width="600px"/></span></p></a>
-            <p>Presenta:<br>Laboratorio de Investigación y Creación Colectiva (DIWO).</p>
-            <figure id="video_player">
-            	<div id="video_container">
-            		<video controls >
-                  <source src="videos/videoarte.mp4" type="video/mp4">
-            		</video>
-            	</div>
-            	<figcaption>
-                <a href="videos/videoarte.mp4" class="currentvid">
-            		</a>
-            		<a href="videos/timelapse-calabaza.mp4" class="currentvid">
-            		</a>
-            		<a href="videos/biopolimero2.mp4">
-            		</a>
-            	</figcaption>
-            </figure>
-            <!--
+{% include head.html %}
+
+<body class="is-preload">
+  <!-- Wrapper -->
+  <div id="wrapper">
+    <!-- Header -->
+    <header id="header">
+      <div class="logo">
+        <img src="images/soldenoche-80.png" />
+      </div>
+      <div class="content">
+        <div class="inner">
+          <a href="#sobre">
+            <p>
+              <span class="image center hero"><img src="images/logosoldenoite-blanco.png" /></span>
+            </p>
+          </a>
+          <p>
+            Presenta:<br />Laboratorio de Investigación y Creación Colectiva
+            (DIWO).
+          </p>
+          <figure id="video_player">
+            <div id="video_container">
+              <video controls height="600px">
+                <source src="videos/videoarte.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <figcaption>
+              <a href="videos/videoarte.mp4" class="currentvid"> </a>
+              <a href="videos/timelapse-calabaza.mp4" class="currentvid"> </a>
+              <a href="videos/biopolimero2.mp4"> </a>
+            </figcaption>
+          </figure>
+          <!--
             <video controls width="600" height="400" loop="true">
                 <source src="videos/biopolímero2.m4v" type="video/mp4">
             </video>
           -->
-          </div>
         </div>
-        <nav>
-          <ul>
-            {% for page in site.pages %}
-              {%if page.layout == "page" %}
-            <li><a href="#{{page.id}}">{{page.title}}</a></li>
-            {% endif %}
-            {% endfor %}
-          </ul>
-        </nav>
-      </header>
-
-      <!-- Main -->
-      <div id="main">
-        {% for page in site.pages %}
-        {%if page.layout == "page" or page.id == "sobre" or page.id == "agradecimientos" %}
-          <article id="{{page.id}}">
-              {{page.content}}
-          </article>
-          {% endif %}
-        {% endfor %}
       </div>
+      <nav>
+        <ul>
+          {% for page in site.pages %} {%if page.layout == "page" %}
+          <li><a href="#{{page.id}}">{{page.title}}</a></li>
+          {% endif %} {% endfor %}
+        </ul>
+      </nav>
+    </header>
 
-      <!-- Footer -->
-      <footer id="footer">
-        <a href="https://medialab-prado.es"><img src="images/logos/medialablogo.png" height="60px"></a>
-        <a href="http://www.plataformabogota.org/"><img src="images/logos/logos-bogota-negro.png" height="100px"></a>
-        <p class="copyright">
-          <a href="#agradecimientos">Agradecimientos</a>
-        </p>
-      </footer>
+    <!-- Main -->
+    <div id="main">
+      {% for page in site.pages %} {%if page.layout == "page" or page.id == "sobre" or page.id == "agradecimientos" %}
+      <article id="{{page.id}}">{{page.content}}</article>
+      {% endif %} {% endfor %}
     </div>
 
-    <!-- BG -->
-    <div id="bg"></div>
+    <!-- Footer -->
+    <footer id="footer">
+      <a href="https://medialab-prado.es"><img src="images/logos/medialablogo.png" height="60px" /></a>
+      <a href="http://www.plataformabogota.org/"><img src="images/logos/logos-bogota-negro.png" height="100px"
+          class='plataforma' /></a>
+      <p class="copyright">
+        <a href="#agradecimientos">Agradecimientos</a>
+      </p>
+    </footer>
+  </div>
 
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
-  </body>
+  <!-- BG -->
+  <div id="bg"></div>
+
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+
 </html>
